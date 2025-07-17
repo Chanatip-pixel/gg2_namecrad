@@ -1,6 +1,26 @@
-{
-  "name": "Chanatip Preamjai",
-  "title": "Internet Programming Lecturer",
-  "phone": "+66 925 630 888",
-  "email": "chanatip.prem@live.ku.th"
-}
+[
+  {
+    "id": "1",
+    "name": "Mr. Chanatip Preamjai",
+    "title": "Digital Science and technology",
+    "phone": "+66 92 563 0888",
+    "email": "chanatip.prem@live.ku.th",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png"
+  },
+  {
+    "id": "2",
+    "name": "Mr. Narakon Loasrichai",
+    "title": "Digital Science and technology",
+    "phone": "+66 66 002 0916",
+    "email": "Narakon@ku.ac.th",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png"
+  },
+  {
+    "id": "3",
+    "name": "Mr. Phoothanet PHOOSANAP",
+    "title": "Digital Science and technology",
+    "phone": "+66 987 654 321",
+    "email": "Phoothanet@elive.ku.th",
+    "imageUri": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png"
+  }
+]
